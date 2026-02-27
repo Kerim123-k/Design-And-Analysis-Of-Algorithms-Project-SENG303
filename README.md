@@ -214,3 +214,4 @@ Each member reviewed and summarized 20 research papers.
 ## Full Report
 
 The complete literature review report is available in this repository as a PDF file.
+The repository also includes the excel sheet that was used for the project and the presentation we used inside our class.
